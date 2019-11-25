@@ -11,6 +11,8 @@
    }
    .primero{
     background-color: grey;
+    margin-left: 50px;
+    margin-right: 50px;
     border: solid black 5px;
     border-radius: 5px;
 }
