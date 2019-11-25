@@ -1,0 +1,9 @@
+body{
+    background-color: green;
+}
+.primero{
+    background-color: orange;
+    border: solid yellow 5px;
+    padding: 10px;
+    margin-right: 1000px;
+}
