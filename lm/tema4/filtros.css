@@ -1,6 +1,6 @@
 .primero:hover{
     display: block;
-    width: 250px;
+    
     -webkit-filter: grayscale(75%);
     -o-filter: grayscale(75%);
     -moz-filter: grayscale(75%);
