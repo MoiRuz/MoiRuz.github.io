@@ -1,11 +1,15 @@
 .primero{
     display: block;
-    width: 1000px;
+    width: 250px;
     -webkit-filter: grayscale(1);
     -o-filter: grayscale(1);
     -moz-filter: grayscale(1);
     filter: grayscale(75%);
+    animation: myAnimation 2s ease 1s 3 alternate forwards;
 }
+@keyframes myAnimation{
+    100%{
+        transform: rotate(360deg);
 .segundo{
     display: inline-flex;
     width: 1000px;
