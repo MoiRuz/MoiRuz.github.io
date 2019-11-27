@@ -9,6 +9,8 @@
 @keyframes myAnimation{
     100%{
         transform: rotate(360deg);
+    }
+}
 .segundo{
     display: inline-flex;
     width: 1000px;
