@@ -1,5 +1,4 @@
 .primero:hover{
-    display: block;
     width: 250px;
     -webkit-filter: grayscale(1);
     -o-filter: grayscale(1);
