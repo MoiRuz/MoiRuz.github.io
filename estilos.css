@@ -2,10 +2,10 @@ body{
   background-color: #03EF52;
 }
 h1{
-  float: center;
+  text-align: center;
   color: grey;
 }
-.primero{
-  float: center;
+a{
+  text-align: center;
   color: #FFF053;
 }
