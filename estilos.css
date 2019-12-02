@@ -2,5 +2,9 @@ body{
   background-color: #03EF52;
 }
 h1{
-  
+  float: center;
+}
+.primero{
+  float: center;
+  color: #FFF053;
 }
