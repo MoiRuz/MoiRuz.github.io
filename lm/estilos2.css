@@ -25,7 +25,7 @@ a:hover{
 .izq{
  text-align: left;
  margin-right: -500px;
- 
+ padding-right: 0px;
 }
 .der{
  float: right; 
