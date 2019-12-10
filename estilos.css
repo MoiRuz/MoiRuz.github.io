@@ -4,9 +4,10 @@ body{
 h1{
   background-color: white;
   color: black;
+  text-align: center;
+  margin: 0px;
 }
 a{
-  margin-left: auto;
-  margin-right: auto;
-  color: #A548FE;
+  background color: grey;
+  
 }
