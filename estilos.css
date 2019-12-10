@@ -1,5 +1,6 @@
 body{ 
   text-align: center;
+  background-image: url("MoiRuz.github.io/imagenes/colorfondo.png");
 }
 h1{
   background-color: white;
@@ -12,3 +13,4 @@ h1{
 img{
  float: center; 
 }
+
