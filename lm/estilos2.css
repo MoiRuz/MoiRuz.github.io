@@ -36,6 +36,9 @@ a:hover{
  margin-left: 250px;
  margin-top: 10px;
 }
-.casa{
+.casa:link{
  margin-left: 250px; 
+}
+.casa:hover{
+ size: 100px; 
 }
