@@ -4,11 +4,12 @@ body{
   
 }
 h1{
-  color: black;
+  color: white;
   text-align: center;
   margin: 0px;
   margin-bottom: 25px;
   font-size: 35px;
+  background-color:black;
 }
 img{
  float: center; 
