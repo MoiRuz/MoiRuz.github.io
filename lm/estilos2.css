@@ -25,11 +25,14 @@ a:hover{
 .izq{
  text-align: left;
  margin-left: 250px;
+ margin-top: 10px;
 }
 .der{
  float: right; 
  margin-right: 250px;
+ margin-top: 10px;
 }
 .centro{
- margin-left: 250px; 
+ margin-left: 250px;
+ margin-top: 10px;
 }
