@@ -1,6 +1,7 @@
 body{ 
   text-align: center;
   background-image: url("MoiRuz.github.io/imagenes/colorfondo.png");
+  
 }
 h1{
   color: black;
@@ -23,4 +24,7 @@ a:hover{
  color: red;
  font-size: 20px;
 }
-
+footer{
+ background.color: black;
+ color: white;
+}
