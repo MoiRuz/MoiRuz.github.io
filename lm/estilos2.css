@@ -36,10 +36,8 @@ a:hover{
  margin-left: 250px;
  margin-top: 10px;
 }
-.casa:link{
+.casa{
  margin-left: 250px; 
 }
-.casa:hover{
- size: 100px; 
-  margin-left: 250px; 
-}
+
+
