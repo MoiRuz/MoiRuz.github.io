@@ -20,6 +20,7 @@ img{
 .encabezado{
  border-bottom: solid white 1px;
  box-shadow: 2px 2px 10px #666; 
+ margin: -20px;
 }
 nav{
  padding-top: 20px;
