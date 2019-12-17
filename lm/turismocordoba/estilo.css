@@ -10,10 +10,12 @@ h1{
  font-family: Times New Roman,serif;
  color: black;
  text-align: center;
+ margin-top: 0;
  
 }
 img{
  float: right;
+ margin-top: 0;
 }
 .encabezado{
  border-bottom: solid white 1px;
