@@ -21,4 +21,6 @@ img{
  border-bottom: solid white 1px;
  box-shadow: 2px 2px 10px #666; 
 }
-
+nav{
+ margin-top: 20px;
+}
