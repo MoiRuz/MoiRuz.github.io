@@ -15,3 +15,7 @@ h1{
 img{
  float: right;
 }
+nav{
+ background-color: black;
+ margin-right: 500px;
+}
