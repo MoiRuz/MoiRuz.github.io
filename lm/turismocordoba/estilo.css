@@ -1,6 +1,9 @@
 body{
  text-align: justify;
 }
+header{
+ position: fixed;
+}
 p{
  font-size: 18px;
  font-family: Times New Roman,serif;
