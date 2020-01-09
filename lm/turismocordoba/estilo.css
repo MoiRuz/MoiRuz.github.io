@@ -11,6 +11,7 @@ h1{
  color: black;
  text-align: center;
  margin-top: 10;
+ display:flex;
 }
 img{
  float: right;
