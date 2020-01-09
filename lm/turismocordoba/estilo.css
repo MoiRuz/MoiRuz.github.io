@@ -14,8 +14,9 @@ h1{
 }
 img{
  float: right;
- margin-top: 100px;
+ margin-top: 10px;
  padding-right: 10px;
+ margin-right: 50px;
 }
 .encabezado{
  border-bottom: solid white 1px;
@@ -29,5 +30,5 @@ nav{
  padding-top: 20px;
  padding-bottom: 20px;
  padding-left: 10px;
- margin-left: 100px;
+ margin-left: 50px;
 }
