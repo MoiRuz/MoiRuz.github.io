@@ -2,7 +2,7 @@ body{
  text-align: justify;
 }
 header{
- position: fixed;
+ position: absolute;
 }
 p{
  font-size: 18px;
