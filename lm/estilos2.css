@@ -1,6 +1,7 @@
 body{ 
   background-image: url("imagenes/colorfondo.png");
 }
+
 h1{
   color: black;
   text-align: center;
@@ -8,43 +9,52 @@ h1{
   margin-bottom: 25px;
   font-size: 35px;
 }
+
 img{
  float: center; 
 }
+
 a:link{
  font-size: 16px;
  color: white;
 }
+
 a:visited{
- color: yellow; 
+ color: brown; 
 }
+
 a:hover{
  color: red;
  font-size: 20px;
 }
+
 .izq{
  text-align: left;
  margin-left: 250px;
  margin-top: 10px;
 }
+
 .der{
  float: right; 
  margin-right: 250px;
  margin-top: 10px;
 }
+
 .centro{
  margin-left: 250px;
  margin-top: 10px;
 }
+
 .casa{
  margin-left: 250px; 
 }
+
 dev{
   background-color: white;  
 }
+
 footer{
  color: black;
  margin-top: 285px;
  text-align: center;
 }
-
