@@ -1,8 +1,8 @@
 body{ 
   text-align: center;
   background-image: url("MoiRuz.github.io/imagenes/colorfondo.png");
-  
 }
+
 h1{
   color: black;
   text-align: center;
@@ -10,22 +10,26 @@ h1{
   margin-bottom: 25px;
   font-size: 35px;
   padding: 0;
-  
 }
+
 img{
  float: center; 
 }
+
 a:link{
  font-size: 16px;
  color: black;
 }
+
 a:visited{
  color: yellow; 
 }
+
 a:hover{
  color: red;
  font-size: 20px;
 }
+
 footer{
  color: black;
  margin-top: 220px;
