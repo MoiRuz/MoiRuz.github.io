@@ -1,23 +1,27 @@
 body{
  text-align: justify;
 }
+
 p{
  font-size: 18px;
  font-family: Times New Roman,serif;
  margin-right: 50px;
 }
+
 h1{
  font-family: Times New Roman,serif;
  color: black;
  text-align: center;
  margin-top: 10;
 }
+
 img{
  float: right;
  margin-top: 10px;
  padding-right: 10px;
  margin-right: 60px;
 }
+
 .encabezado{
  border-bottom: solid white 1px;
  box-shadow: 2px 2px 10px #666; 
@@ -26,12 +30,14 @@ img{
  margin-left: -15px;
  padding-top: 5px;
 }
+
 nav{
  padding-top: 20px;
  padding-bottom: 20px;
  padding-left: 10px;
  margin-left: 25px;
 }
+
 .flecha{
 position: fixed;
 }
