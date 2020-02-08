@@ -2,9 +2,9 @@ h1{
   color: white;
   border: solid blue 3px;
   background-color: grey;
-  margin-right: 500px;
+  margin-right: 800px;
 }
 p{
-  margin-bottom: 5px;
+  line-height : 25px;
   margin-left: 5px;
 }
