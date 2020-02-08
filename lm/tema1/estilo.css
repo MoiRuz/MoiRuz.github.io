@@ -1,0 +1,9 @@
+h1{
+  color: white;
+  border: solid blue 3px;
+  background-color: grey;
+}
+p{
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
