@@ -1,0 +1,10 @@
+body{
+  background-color: 485c9d;
+}
+h1{
+  color: white;
+  border: solid blue 3px;
+  background-color: grey;
+  margin-right: 1200px;
+  padding-left: 10px;
+}
