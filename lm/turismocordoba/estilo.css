@@ -48,3 +48,9 @@ position: fixed;
  padding-right: 10px;
  padding-left: 10px;
 }
+
+.pie{
+ background-color: black;
+ border-top: solid black 1px;
+ box shadow: 2px 2px 10px #666;
+}
