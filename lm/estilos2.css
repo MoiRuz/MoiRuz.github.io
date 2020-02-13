@@ -11,6 +11,9 @@ h1{
 img{
  float: center; 
 }
+a{
+ border: solid black 2px; 
+}
 a:link{
  font-size: 16px;
  color: white;
