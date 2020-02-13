@@ -14,7 +14,7 @@ img{
 a{
  border: solid black 2px; 
  padding: 5px;
- margin-bottom: 200px;
+ margin: 200px;
 }
 a:link{
  font-size: 16px;
