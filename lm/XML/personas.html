@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <head>
+        <title></title>
+        <meta charset = "utf-8">
+        <meta name="description">
+        <meta name="keywords" >
+        <!-- link rel="stylesheet" href="" -->
+    </head>
+    <body>
+       <h1>XSD</h1>
+       <p>
+        <?xml version="1.0" encoding="UTF-8"?>
+          <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <xs:element name="personas">
+              <xs:complexType>
+              <xs:sequence>
+                <xs:element name="persona" type="datosPersona" maxOccurs="unbounded"/>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+
+          <xs:complexType name="datosPersona">
+            <xs:sequence>
+              <xs:group ref="datosBasicos"/>
+              <xs:element name="telefono" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+
+        <xs:group name="datosBasicos">
+          <xs:sequence>
+              <xs:element name="nombre" type="xs:string"/>
+              <xs:element name="edad" type="xs:positiveInteger"/>
+              <xs:element name="pais" type="xs:string"/>
+            </xs:sequence>
+          </xs:group>
+        </xs:schema>
+       </p>
+      <h1>XML</h1>
+      <p>
+      <?xml version="1.0" encoding="UTF-8"?>
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="personas.xsd">
+  <persona>
+    <nombre>Eva</nombre>
+    <edad>25</edad>
+    <pais>Francia</pais>
+    <telefono>612345789</telefono>
+  </persona>
+  <persona>
+    <nombre>Giovanni</nombre>
+    <edad>23</edad>
+    <pais>Italia</pais>
+    <telefono>123456789</telefono>
+  </persona>
+</personas>
+      </p>
+    <footer>
+        
+    </footer>
+    </body>
+</html>
